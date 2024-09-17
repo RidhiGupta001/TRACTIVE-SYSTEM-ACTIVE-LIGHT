@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "converter")(type "KiCad")(uri "${KIPRJMOD}/converter.pretty")(options "")(descr ""))
+  (lib (name "isolator1")(type "KiCad")(uri "${KIPRJMOD}/BUCK_CONVERTER.pretty/isolator1.pretty")(options "")(descr ""))
+)
